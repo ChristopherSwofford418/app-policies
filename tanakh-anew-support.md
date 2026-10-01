@@ -1,6 +1,6 @@
 # Tanakh Anew · תנ״ך מחדש — Help & Support
 
-**Current distribution: internal TestFlight 1.0.0/build 1; not publicly released.** Build 1 is a free offline Jewish Tanakh reader. It has **no Apple account, subscription, paywall or purchase button**. A different premium/Apple-account source candidate has not yet been built or submitted to Apple.
+**Current verified distribution: internal TestFlight 1.0.0/build 1; not publicly released.** Build 1 is a free offline Jewish Tanakh reader. It has **no Apple account, subscription, paywall or purchase button**. A separate premium/Apple-account **signed build 2** has finished at EAS and was scheduled for App Store Connect upload; Apple VALID/TestFlight and native features are not yet verified. It has not been submitted for App Review.
 
 ## How to get help
 
@@ -8,7 +8,7 @@ For an app problem, accessibility issue, incorrect text reference or feature sug
 
 ## Reading and saved verses
 
-Choose Hebrew or English first. All 24 traditional Jewish books, both text editions, chapter reading and search are included offline. You can change language, adjust text size and save verses locally. Saved verses and reading/study progress **do not sync across devices** in either current build 1 or the unbuilt candidate. Removing the app may remove local reading data.
+Choose Hebrew or English first. All 24 traditional Jewish books, both text editions, chapter reading and search are included offline. You can change language, adjust text size and save verses locally. Saved verses and reading/study progress **do not sync across devices** in either current build 1 or the signed candidate. Removing the app may remove local reading data.
 
 ## Membership and billing — not in build 1
 

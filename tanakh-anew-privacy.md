@@ -1,6 +1,6 @@
 # Tanakh Anew · תנ״ך מחדש — Privacy Policy
 
-**Updated October 1, 2026.** The version currently distributed in internal TestFlight is **1.0.0/build 1**, a free bilingual reader. The separate onboarding, $2.99/week U.S. subscription draft and Supabase-backed Apple-account changes described below are a **source candidate only**: they have not been built, installed, or submitted for App Review. Tanakh Anew is not yet publicly available on the App Store.
+**Updated October 1, 2026.** The version currently distributed in internal TestFlight is **1.0.0/build 1**, a free bilingual reader. The separate onboarding, $2.99/week U.S. subscription draft and Supabase-backed Apple-account changes described below are in a **signed 1.0.0/build 2 candidate**; its upload to App Store Connect was scheduled, but Apple VALID/TestFlight availability and native-device testing are not yet verified. It has **not** been submitted for App Review. Tanakh Anew is not yet publicly available on the App Store.
 
 ## Current internal TestFlight build 1
 
@@ -8,7 +8,7 @@ Your Hebrew/English choice, reading preferences, saved verses and reading check-
 
 Removing the app normally deletes its locally stored data under your device's app-data rules. Build 1 has no server-side Tanakh account to delete.
 
-## Unbuilt premium and Apple-account candidate — not in build 1
+## Signed premium and Apple-account candidate — not in build 1
 
 The next candidate retains **all 24 traditional Jewish books, both editions, offline reading, search and saved verses free**. On supported iPhones it presents the optional Premium Study subscription offer **before** any account sign-in. A person can skip the offer and read without an account or purchase. A premium member may choose native Sign in with Apple after purchasing or restoring an active membership; an Apple account is not required to use the membership.
 
@@ -20,7 +20,7 @@ The next candidate retains **all 24 traditional Jewish books, both editions, off
 
 **Account deletion and billing:** A signed-in person can select **Membership → Delete Tanakh account**, then confirm. An authenticated Tanakh-only server function verifies their session and deletes their Supabase Auth account. This does not delete locally stored reading data, nor does it cancel an Apple subscription. To avoid further billing, separately cancel via Apple's subscription settings. Sign out removes this device's account session; it does not cancel the membership. Account-deletion support is available via the [support page](https://github.com/ChristopherSwofford418/app-policies/blob/main/tanakh-anew-support.md), but do not post personal account information in a public issue.
 
-The candidate is **not yet on TestFlight**. Before shipping it, its signed build, native Apple login, purchase, Restore and account deletion must be device-tested, and the App Store App Privacy answers updated to cover the actual Apple/Supabase account data and RevenueCat purchase history. This page does not imply those flows already passed.
+The candidate is **not yet verified on TestFlight**. Before shipping it, native Apple login, purchase, Restore and account deletion must be device-tested, and the App Store App Privacy answers updated to cover the actual Apple/Supabase account data and RevenueCat purchase history. This page does not imply those flows already passed.
 
 ## Support and sources
 
