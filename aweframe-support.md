@@ -1,15 +1,17 @@
 # Aweframe — Help & Support
 
-**Status:** 1.0.0 is an iPhone development/TestFlight candidate. This page does not mean it is approved or available on the public App Store.
+**Status:** Aweframe 1.0.0/build 2 is available to the owner's **internal TestFlight** group. This does not mean it has been submitted, approved, or released on the public App Store. Its new purchase, restore, Apple sign-in and photo flows still need real-device validation.
 
 ## Getting started
 
-Complete the short welcome, tap **Keep a moment**, choose a photo or write a sentence, select an optional category, and tap **Save this moment**. No account or subscription is required. **Today** shows a small noticing invitation and a real saved memory, when available. **Moments** is your local journal; **Invitations** offers optional ideas. You can open a moment to edit, delete or share it.
+Complete the welcome flow, choose how you want to notice everyday moments, and use **Continue with free journal** if you prefer not to subscribe. Free users can write and keep text-only moments and browse general invitations. Your journal stays on this device; an optional Apple account does not synchronize or back up moments.
 
-Camera and photo access are requested only in response to your choice. If either permission is denied, write a text-only moment instead. If saving fails, leave the app installed and report the exact on-screen error; do not delete/reinstall before considering that the journal exists only on this device. Sharing one moment is not a complete backup. Uninstalling can remove saved moments.
+Aweframe Premium is an optional, auto-renewable Apple weekly subscription that enables new photo moments and locally tailored daily invitations while Apple's entitlement is active. The U.S. starting price is $2.99/week and the Apple purchase sheet shows the price before confirmation; there is no free trial in this draft. You can try **Restore Purchases** in the app if an active subscription is missing, and manage/cancel through Apple's subscription settings. Signing out or deleting your optional Aweframe account does **not** cancel an Apple subscription.
 
-## Contact and privacy
+Camera access is requested only after choosing the camera, and the photo selector opens after choosing a photo. If you deny access, you can still save a free text moment. You can edit, delete, and individually share saved moments. If saving fails, leave the app installed and report the exact error before reinstalling: deleting the app can remove this device-only journal, and sharing a moment is not a complete backup.
 
-For a non-sensitive bug or accessibility issue, [open an Aweframe support issue](https://github.com/ChristopherSwofford418/app-policies/issues/new). **GitHub issues are public. Do not post personal photos, private journal text, email addresses, phone numbers, locations, passwords or other sensitive details.** If the issue requires such details, post only that you need a private contact route; do not post the details themselves.
+## Account and privacy
 
-Read the [Aweframe Privacy Policy](https://github.com/ChristopherSwofford418/app-policies/blob/main/aweframe-privacy.md).
+Sign in with Apple is optional. **Delete Aweframe account** requests deletion of the dedicated Aweframe authentication identity; it does not delete locally saved moments. If the deletion control reports an error, do not assume deletion succeeded. Read the [Aweframe Privacy Policy](https://github.com/ChristopherSwofford418/app-policies/blob/main/aweframe-privacy.md) for details about account metadata and device-only journal content.
+
+For a non-sensitive bug or accessibility issue, [open an Aweframe support issue](https://github.com/ChristopherSwofford418/app-policies/issues/new). **GitHub issues are public.** Do not post journal photos/text, email addresses, phone numbers, locations, purchase receipts, passwords, session tokens or other private details. If sensitive information is needed, post only that you require a private contact route, not the details themselves.
