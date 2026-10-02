@@ -1,10 +1,10 @@
 # Aweframe — Help & Support
 
-**Status:** Aweframe 1.0.0/build 3 is Apple-validated and available to the owner's **internal TestFlight** group. This does not mean it has been submitted, approved, or released on the public App Store. Its purchase, restore, optional Apple sign-in and photo flows still need real-device validation.
+**Status:** Aweframe 1.0.0/build 4 is Apple-validated and available to the owner's **internal TestFlight** group. Apple last showed build 3 installed on the owner's iPhone; build 4 has not yet been confirmed installed or tested there. This does not mean it has been submitted, approved, or released on the public App Store. Its purchase, restore, optional Apple sign-in, photo and paywall-scroll flows still need real-device validation.
 
 ## Getting started
 
-Complete the welcome flow, choose how you want to notice everyday moments, and use **Continue with free text journal** if you prefer not to subscribe. Free users can write and keep text-only moments and browse general invitations. Your journal stays on this device; an optional Apple account does not synchronize or back up moments. Build 3 places **Sign in with Apple** on the paywall as a separate, optional action from the Apple subscription.
+Complete the welcome flow, choose how you want to notice everyday moments, and use **Continue with free text journal** if you prefer not to subscribe. Free users can write and keep text-only moments and browse general invitations. Your journal stays on this device; an optional Apple account does not synchronize or back up moments. Builds 3 and 4 place **Sign in with Apple** on the paywall as a separate, optional action from the Apple subscription. Build 4 also attempts to prevent scrolled paywall content from overlapping the onboarding progress header or footer; this specific iPhone correction still needs testing.
 
 Aweframe Premium is an optional, auto-renewable Apple weekly subscription that enables new photo moments and locally tailored daily invitations while Apple's entitlement is active. The U.S. starting price is $2.99/week and the Apple purchase sheet shows the price before confirmation; there is no free trial in this draft. You can try **Restore Purchases** in the app if an active subscription is missing, and manage/cancel through Apple's subscription settings. Signing out or deleting your optional Aweframe account does **not** cancel an Apple subscription.
 

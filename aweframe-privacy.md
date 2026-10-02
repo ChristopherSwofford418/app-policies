@@ -1,6 +1,6 @@
 # Aweframe — Privacy Policy
 
-**Updated October 2, 2026.** This policy covers Aweframe 1.0.0 internal TestFlight builds, including builds 2 and 3 with an optional Apple account and weekly Premium subscription. Aweframe has **not** been approved or released on the public App Store.
+**Updated October 2, 2026.** This policy covers Aweframe 1.0.0 internal TestFlight builds, including builds 2, 3 and 4 with an optional Apple account and weekly Premium subscription. Aweframe has **not** been submitted, approved or released on the public App Store.
 
 ## Your private journal
 
