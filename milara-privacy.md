@@ -1,10 +1,12 @@
 # Milarah · מילארה — Privacy Policy
 
-**Updated October 6, 2026.** Milarah is in pre-release preparation; it is not publicly available on the App Store. This policy describes the 1.0.0 (3) TestFlight build and will be revised if the released app's practices change.
+**Updated October 25, 2026.** Milarah 1.0.0 (4) is available for final private TestFlight testing. It is not publicly available on the App Store. This policy describes that private TestFlight build.
 
 ## Child reading stays on the device
 
 Milarah offers parent-guided Hebrew letters, final forms and pointed-word practice in English or Hebrew. The chosen guide language and reading preferences, completed-lesson identifiers, setup state and practice records are stored on the device. Each practice record contains a challenge identifier, attempt count, first-try count and timestamps used to suggest a later review. The app does not store a child's complete answer sequence or ask for a child's name, age, email, location, photos, voice or school information. The free alphabet starter and shape practice do not require a child account or an internet connection. The app does not upload a child profile, lesson answers, reading progress or practice records to our backend.
+
+The word workshop also keeps a separate local practice notebook on this device, alongside the existing lesson and shape-practice records. It records word-mission progress, saved builds, a reading partner's reported practice choice, and limited first-try/correction and date information to suggest local review. It is not a child profile, does not upload or sync to the adult account or cloud, and is removed by **Erase local reading progress** on that device. Milarah does not use the microphone to record or listen to reading, and the workshop does not use AI to recognize, assess, or score a child's reading.
 
 In the grown-up area, **Erase local reading progress** removes these app-owned reading records and setup choices from this device. Uninstalling the app may also remove them. There is no cloud progress sync or recovery guarantee. Device backups and operating-system storage are managed by the device owner and Apple, not erased by the app's reset control.
 
@@ -16,8 +18,9 @@ An adult can sign out or choose **Delete adult account** in the grown-up area. T
 
 ## Optional Apple subscription
 
-The free alphabet starter, five final forms and shape-comparison mission remain free. A grown-up may separately choose a **weekly auto-renewing Apple subscription** for six bundled vowel-and-word lessons and a pointed-word comparison lab. The lab reorders already bundled word exercises using on-device practice records; it does not promise new weekly lessons. Apple handles payment and subscription management; the app checks an active direct Apple StoreKit entitlement to unlock the expanded library and supports **Restore Apple purchases**. Milarah does not receive or store payment-card numbers. Optional adult Sign in with Apple is not needed for purchase or restore. To cancel, use Apple Account subscription settings; deleting an account or the app does not cancel billing. No free trial is promised.
+The free 22-letter alphabet starter, five final forms, shape practice and two word missions remain free. A grown-up may separately choose a **weekly auto-renewing Apple subscription** for six expanded word missions, six bundled vowel-and-word lessons and a pointed-word comparison lab. The lab reorders already bundled word exercises using on-device practice records; it does not promise new weekly lessons. Apple handles payment and subscription management; the app checks an active direct Apple StoreKit entitlement to unlock the expanded library and supports **Restore Apple purchases**. Milarah does not receive or store payment-card numbers. Optional adult Sign in with Apple is not needed for purchase or restore. To cancel, use Apple Account subscription settings; deleting an account or the app does not cancel billing. No free trial is promised.
 
 ## Other practices and contact
 
 The app has no advertising or third-party analytics SDK and does not request location, contacts, camera, photo library, microphone or health data. Network access supports optional adult authentication and Apple's purchase services; Apple and Supabase may handle technical requests under their own terms and privacy practices. See [Milarah support](milara-support.md) for general questions or account-deletion assistance. **Public support issues must not contain children's information, reading records, login details or payment information.** We will revise this policy if the released app's data practices change.
+
